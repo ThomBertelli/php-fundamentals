@@ -18,5 +18,5 @@
     <li>OOP Classes/Objects</li>
     <li>OOP Constructor</li>
     <li>OOP Desctructor</li>
-    <li>OOp Inheritance</li>
+    <li>OOP Inheritance</li>
 </ul>
